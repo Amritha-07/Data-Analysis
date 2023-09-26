@@ -1,4 +1,6 @@
-# Data Analysis: Comparing Direct and Indirect Marketing Strategies and Predicting AI Impact on Jobs
+# Data-Analysis
+
+Comparing Direct and Indirect Marketing Strategies and Predicting AI Impact on Jobs
 
 This project is a data analysis project that uses Python to compare the effectiveness of direct and indirect marketing strategies and to predict the impact of AI on jobs in the next five years. It uses various statistical methods, such as descriptive statistics, hypothesis testing, and regression analysis, to explore and answer the research questions.
 
