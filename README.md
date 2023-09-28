@@ -15,7 +15,7 @@ The data for this project comes from two sources:
 - A survey of 150 customers who were exposed to either direct or indirect marketing campaigns for a new product. The survey collected information on the customers’ demographics, preferences, awareness, and purchase intention. The research question is: Which marketing strategy is more effective in increasing customer awareness and purchase intention?
 - A survey of 150 workers who were asked about their opinions on AI taking over their jobs in the next five years. The survey collected information on the workers’ demographics, education, occupation, income, and job satisfaction. The research question is: How likely is AI to replace human workers in different occupations and sectors in the next five years?
 
-## Installation
+## Installation and Usage
 
 To install and run this project, you need to have Python 3 installed on your computer. You also need to install and import the following Python libraries:
 
