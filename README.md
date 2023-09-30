@@ -4,7 +4,11 @@ Comparing Direct and Indirect Marketing Strategies and Predicting AI Impact on J
 
 This project is a data analysis project that uses Python to compare the effectiveness of direct and indirect marketing strategies and to predict the impact of AI on jobs in the next five years. It uses various statistical methods, such as descriptive statistics, hypothesis testing, and regression analysis, to explore and answer the research questions.
 
-![image](https://github.com/Amritha-07/Data-Analysis/assets/74042644/d115606b-a439-46b7-b0b6-34ee6c52642d)
+<p>
+  <img src="images/MarketingTechnique.png">
+</p>
+
+![](images/MarketingTechnique.png)
 
 ![image](https://github.com/Amritha-07/Data-Analysis/assets/74042644/5943d465-6f29-475c-9271-edb812d763a8)
 
