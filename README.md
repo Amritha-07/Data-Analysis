@@ -4,9 +4,23 @@ Comparing Direct and Indirect Marketing Strategies and Predicting AI Impact on J
 
 This project is a data analysis project that uses Python to compare the effectiveness of direct and indirect marketing strategies and to predict the impact of AI on jobs in the next five years. It uses various statistical methods, such as descriptive statistics, hypothesis testing, and regression analysis, to explore and answer the research questions.
 
-![image](https://github.com/Amritha-07/Data-Analysis/assets/74042644/1d9b579e-9941-4a28-a271-71f38ef92f37)
+## Table of Content
 
-![image](https://github.com/Amritha-07/Data-Analysis/assets/74042644/5943d465-6f29-475c-9271-edb812d763a8)
+- [Demo](#demo)
+- [Tech-Stack](#tech-stack)
+- [Data Sources and Research Questions](#data-sources-and-research-questions)
+- [Installation and Usage](#installation-and-usage)
+- [Results and Findings](#results-and-findings)
+
+## Demo
+
+<center>
+    <img src='img/snap_1.png' alt='image' width='90%' name='snap_1'/>
+</center>
+
+<center>
+    <img src='img/snap_2.png' alt='image' width='90%' name='snap_2'/>
+</center>
 
 ## Tech-Stack
 
@@ -40,10 +54,12 @@ git clone https://github.com/myusername/Data-Analysis.git
 
 The results and findings of the data analysis are summarized below:
 
+#### Direct Advertising VS Indirect Advertising
+
+- The conclusion of the hypothesis testing was that indirect marketing had a higher purchase intention than direct marketing, which supports the claim that indirect marketing is better than direct marketing.
+
 #### Impact of Artificial Intelligence on Jobs
 
 - The AI analysis found that AI was likely to replace human workers in some occupations and sectors more than others in the next five years, based on descriptive statistics, hypothesis testing, and regression analysis.
 
-#### Direct Advertising VS Indirect Advertising
 
-- The conclusion of the hypothesis testing was that indirect marketing had a higher purchase intention than direct marketing, which supports the claim that indirect marketing is better than direct marketing.
