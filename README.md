@@ -37,7 +37,7 @@ To install and run this project, you need to have Python 3 installed on your com
 To download the code and data files for this project, you can clone this GitHub repository using the following command:
 
 ```
-git clone https://github.com/myusername/Data-Analysis.git
+git clone https://github.com/Amritha-07/Data-Analysis.git
 ```
 
 ## Results and Findings
